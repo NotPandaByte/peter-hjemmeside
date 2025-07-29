@@ -20,6 +20,7 @@ export default function Header() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
     if (element) {
       element.scrollIntoView({ behavior: "smooth" });
@@ -538,10 +539,6 @@ export default function Header() {
                 <div className="space-y-3">
                   <Link href="/Contact" onClick={() => setIsMenuOpen(false)} className="text-[#1a1a1a] font-medium hover:text-[#8b8b8b] transition-colors duration-300 flex items-center mb-4">
                     Contact <ArrowRight size={16} className="ml-2" />
-                  </Link>
-                  <Link href="/Cart" onClick={() => setIsMenuOpen(false)} className="bg-blue-600 text-white w-full px-4 py-3 rounded flex items-center justify-center space-x-2 hover:bg-blue-700 transition-colors">
-                    <ShoppingCart size={16} />
-                    <span>Cart (0)</span>
                   </Link>
                   <Link href="/Book" onClick={() => setIsMenuOpen(false)} className="bg-amber-600 text-white w-full px-6 py-3 rounded hover:bg-amber-700 transition-colors text-center block">
                     Book
