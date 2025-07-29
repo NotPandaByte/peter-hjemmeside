@@ -20,7 +20,7 @@ export default function Footer() {
           >
             <div className="flex items-center space-x-3 mb-6">
               <img 
-                src="/logo/autouniqa-logo.svg" 
+                src="/logo/autouniqa-logo.svg?v=2" 
                 alt="AutoUniqa Logo" 
                 className="w-12 h-12"
               />

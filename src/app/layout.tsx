@@ -28,10 +28,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/logo/autouniqa-logo.svg', type: 'image/svg+xml' },
+      { url: '/logo/autouniqa-logo.svg?v=2', type: 'image/svg+xml' },
     ],
     apple: [
-      { url: '/logo/autouniqa-logo.svg', type: 'image/svg+xml' },
+      { url: '/logo/autouniqa-logo.svg?v=2', type: 'image/svg+xml' },
     ],
   },
   openGraph: {
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     siteName: "AutoUniqa",
     images: [
       {
-        url: '/logo/autouniqa-logo.svg',
+        url: '/logo/autouniqa-logo.svg?v=2',
         width: 256,
         height: 256,
         alt: 'AutoUniqa Logo - Land Rover & 4x4 Specialister',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "AutoUniqa - Land Rover & 4x4 Specialister i Danmark",
     description: "AutoUniqa er Danmarks førende specialister i Land Rover og 4x4 køretøjer. Vi tilbyder vedligeholdelse, reparation, custom builds, dele og ekspert rådgivning.",
-    images: ['/logo/autouniqa-logo.svg'],
+    images: ['/logo/autouniqa-logo.svg?v=2'],
     creator: "@autouniqa",
   },
   robots: {
@@ -82,8 +82,8 @@ export default function RootLayout({
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link rel="icon" type="image/svg+xml" href="/logo/autouniqa-logo.svg" />
-        <link rel="apple-touch-icon" href="/logo/autouniqa-logo.svg" />
+        <link rel="icon" type="image/svg+xml" href="/logo/autouniqa-logo.svg?v=2" />
+        <link rel="apple-touch-icon" href="/logo/autouniqa-logo.svg?v=2" />
         
         {/* JSON-LD Structured Data */}
         <script
@@ -95,8 +95,8 @@ export default function RootLayout({
               "name": "AutoUniqa",
               "description": "Danmarks førende specialister i Land Rover og 4x4 køretøjer",
               "url": "https://autouniqa.dk",
-              "logo": "https://autouniqa.dk/logo/autouniqa-logo.svg",
-              "image": "https://autouniqa.dk/logo/autouniqa-logo.svg",
+              "logo": "https://autouniqa.dk/logo/autouniqa-logo.svg?v=2",
+              "image": "https://autouniqa.dk/logo/autouniqa-logo.svg?v=2",
               "telephone": "+45-XX-XX-XX-XX",
               "email": "info@autouniqa.dk",
               "address": {

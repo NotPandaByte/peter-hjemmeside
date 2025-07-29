@@ -48,7 +48,7 @@ export default function Header() {
             <Link href="/" className="flex items-center space-x-3 group">
               <div className="relative">
                 <img 
-                  src="/logo/autouniqa-logo.svg" 
+                  src="/logo/autouniqa-logo.svg?v=2" 
                   alt="AutoUniqa Logo" 
                   className="w-10 h-10 md:w-12 md:h-12 transition-transform duration-300 group-hover:scale-110"
                 />
