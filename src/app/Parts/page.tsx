@@ -24,8 +24,8 @@ export default function PartsPage() {
               Vi sikrer at din 4x4 får de bedste komponenter.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/Shop" className="bg-amber-600 text-white px-8 py-4 rounded-lg hover:bg-amber-700 transition-colors font-medium">
-                Se Vores Shop
+              <Link href="/Contact" className="bg-amber-600 text-white px-8 py-4 rounded-lg hover:bg-amber-700 transition-colors font-medium">
+                Kontakt os
               </Link>
               <Link href="/Contact" className="border border-[#8b8b8b] text-white px-8 py-4 rounded-lg hover:bg-[#8b8b8b] hover:text-black transition-colors">
                 Bestil Dele
@@ -470,8 +470,8 @@ export default function PartsPage() {
               Vi har kvalitetsdele til alle Land Rover modeller.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/Shop" className="bg-amber-600 text-white px-8 py-4 rounded-lg hover:bg-amber-700 transition-colors font-medium flex items-center justify-center">
-                Se Vores Shop
+              <Link href="/Contact" className="bg-amber-600 text-white px-8 py-4 rounded-lg hover:bg-amber-700 transition-colors font-medium flex items-center justify-center">
+                Kontakt os
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Link>
               <Link href="/Contact" className="border border-[#8b8b8b] text-white px-8 py-4 rounded-lg hover:bg-[#8b8b8b] hover:text-black transition-colors">

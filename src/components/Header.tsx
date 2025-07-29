@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Menu, X, ArrowRight, ShoppingCart } from "lucide-react";
+import { Menu, X, ArrowRight } from "lucide-react";
 import { Menu as HeadlessMenu, Transition } from '@headlessui/react';
 import { ChevronDownIcon } from '@heroicons/react/20/solid';
 import Link from "next/link";
@@ -305,15 +305,7 @@ export default function Header() {
               </Link>
             </motion.div>
 
-            <motion.div
-              initial={{ opacity: 0, y: -10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: 0.3 }}
-            >
-              <Link href="/Shop" className="text-[#b0b0b0] hover:text-white transition-colors duration-300 font-light tracking-wide">
-                Shop
-              </Link>
-            </motion.div>
+
 
             <motion.div
               initial={{ opacity: 0, y: -10 }}
@@ -329,18 +321,6 @@ export default function Header() {
               initial={{ opacity: 0, y: -10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.5 }}
-            >
-              <Link href="/Cart" className="bg-blue-600 text-white px-3 lg:px-4 py-2 rounded flex items-center space-x-2 hover:bg-blue-700 transition-colors">
-                <ShoppingCart size={16} />
-                <span className="hidden xl:inline">Cart</span>
-                <span className="bg-white text-blue-600 rounded-full w-5 h-5 flex items-center justify-center text-xs font-bold">0</span>
-              </Link>
-            </motion.div>
-
-            <motion.div
-              initial={{ opacity: 0, y: -10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: 0.6 }}
             >
               <Link href="/Book" className="bg-amber-600 text-white px-4 lg:px-6 py-2 rounded hover:bg-amber-700 transition-colors">
                 Book
