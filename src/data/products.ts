@@ -25,7 +25,7 @@ export const products: Product[] = [
     featured: true,
     description: "Kvalitets bremseklodser til Discovery 1",
     model: "Discovery 1",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 2, 
@@ -38,7 +38,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Discovery 1",
     model: "Discovery 1",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 3, 
@@ -51,7 +51,7 @@ export const products: Product[] = [
     featured: false,
     description: "Oliefilter til Discovery 1",
     model: "Discovery 1",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Discovery 2 Produkter
@@ -66,7 +66,7 @@ export const products: Product[] = [
     featured: true,
     description: "Kvalitets bremseklodser til Discovery 2",
     model: "Discovery 2",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 5, 
@@ -79,7 +79,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Discovery 2",
     model: "Discovery 2",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 6, 
@@ -92,7 +92,7 @@ export const products: Product[] = [
     featured: false,
     description: "Oliefilter til Discovery 2",
     model: "Discovery 2",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Discovery 3 Produkter
@@ -107,7 +107,7 @@ export const products: Product[] = [
     featured: true,
     description: "Kvalitets bremseklodser til Discovery 3",
     model: "Discovery 3",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 8, 
@@ -120,7 +120,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Discovery 3",
     model: "Discovery 3",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 9, 
@@ -133,7 +133,7 @@ export const products: Product[] = [
     featured: false,
     description: "Oliefilter til Discovery 3",
     model: "Discovery 3",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 10, 
@@ -146,7 +146,7 @@ export const products: Product[] = [
     featured: false,
     description: "Partikelfilter til Discovery 3",
     model: "Discovery 3",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Discovery 4 Produkter
@@ -161,7 +161,7 @@ export const products: Product[] = [
     featured: true,
     description: "Kvalitets bremseklodser til Discovery 4",
     model: "Discovery 4",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 12, 
@@ -174,7 +174,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Discovery 4",
     model: "Discovery 4",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 13, 
@@ -187,7 +187,7 @@ export const products: Product[] = [
     featured: false,
     description: "Oliefilter til Discovery 4",
     model: "Discovery 4",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 14, 
@@ -200,7 +200,7 @@ export const products: Product[] = [
     featured: false,
     description: "Partikelfilter til Discovery 4",
     model: "Discovery 4",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Defender Produkter
@@ -215,7 +215,7 @@ export const products: Product[] = [
     featured: true,
     description: "Kvalitets bremseklodser til Defender",
     model: "Defender",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 16, 
@@ -228,7 +228,7 @@ export const products: Product[] = [
     featured: true,
     description: "LED lygter til Defender",
     model: "Defender",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 17, 
@@ -241,7 +241,7 @@ export const products: Product[] = [
     featured: true,
     description: "Lift kit til Defender",
     model: "Defender",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 18, 
@@ -254,7 +254,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Defender",
     model: "Defender",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 19, 
@@ -267,7 +267,7 @@ export const products: Product[] = [
     featured: false,
     description: "Oliefilter til Defender",
     model: "Defender",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 20, 
@@ -280,7 +280,7 @@ export const products: Product[] = [
     featured: false,
     description: "Roof rack til Defender",
     model: "Defender",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Freelander Produkter
@@ -295,7 +295,7 @@ export const products: Product[] = [
     featured: false,
     description: "Kvalitets bremseklodser til Freelander",
     model: "Freelander",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 22, 
@@ -308,7 +308,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Freelander",
     model: "Freelander",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Range Rover Classic Produkter
@@ -323,7 +323,7 @@ export const products: Product[] = [
     featured: false,
     description: "Kvalitets bremseklodser til Range Rover Classic",
     model: "Range Rover Classic",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 24, 
@@ -336,7 +336,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Range Rover Classic",
     model: "Range Rover Classic",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Range Rover Produkter
@@ -351,7 +351,7 @@ export const products: Product[] = [
     featured: true,
     description: "Kvalitets bremseklodser til Range Rover",
     model: "Range Rover",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 26, 
@@ -364,7 +364,7 @@ export const products: Product[] = [
     featured: true,
     description: "Bull bar til Range Rover",
     model: "Range Rover",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 27, 
@@ -377,7 +377,7 @@ export const products: Product[] = [
     featured: false,
     description: "Luftfilter til Range Rover",
     model: "Range Rover",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 28, 
@@ -390,7 +390,7 @@ export const products: Product[] = [
     featured: false,
     description: "Partikelfilter til Range Rover",
     model: "Range Rover",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 
   // Universal Produkter
@@ -404,7 +404,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: false,
     description: "Cargo box til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 30, 
@@ -416,7 +416,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: true,
     description: "LED light bar til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 31, 
@@ -428,7 +428,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: false,
     description: "Recovery tracks til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 32, 
@@ -440,7 +440,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: true,
     description: "Rock sliders til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 33, 
@@ -452,7 +452,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: true,
     description: "Roof tent til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 34, 
@@ -464,7 +464,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: true,
     description: "Suspension kit til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
   { 
     id: 35, 
@@ -476,7 +476,7 @@ export const products: Product[] = [
     inStock: true, 
     featured: true,
     description: "Winch til alle Land Rover modeller",
-    image: "/Images/products/defender/oliefilter.jpg"
+    image: "/Images/products/defender/oliefilter.jpg?v=2"
   },
 ];
 
