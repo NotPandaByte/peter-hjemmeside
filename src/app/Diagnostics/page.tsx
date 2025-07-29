@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Search, Cpu, AlertTriangle, CheckCircle, Wrench, ArrowRight, Zap, Shield } from "lucide-react";
+import { Search, Cpu, CheckCircle, Wrench, ArrowRight, Zap, Shield } from "lucide-react";
 import Link from "next/link";
 
 export default function DiagnosticsPage() {
